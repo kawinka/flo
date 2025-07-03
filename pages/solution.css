@@ -1,0 +1,156 @@
+.body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.topn {
+    background-color: antiquewhite;
+    width: 100%;
+
+    background-color: bisque;
+    height: 150px;
+    background-image: linear-gradient(rgba(236, 65, 145, 0.267), rgba(255, 0, 0, 0.144)), url();
+}
+
+.topn p {
+    margin-left: 00px;
+    font-size: 4em;
+    margin-top: 40px;
+}
+
+.how img {
+    margin-top: 40px;
+}
+
+.over {
+    margin-left: 500px;
+    margin-top: -200px;
+}
+
+.case {
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.case img {
+    margin-left: 600px;
+    margin-top: -200px;
+}
+
+.footer {
+    background-color: #000b33;
+    color: white;
+    padding: 40px;
+    font-family: sans-serif;
+    margin-top: 1%;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-column h3,
+.footer-newsletter h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.footer-column ul,
+.footer-newsletter p {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    line-height: 1.8;
+}
+
+.footer-newsletter input[type="email"] {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 2px solid #00d084;
+}
+
+.subscribe-btn {
+    background-color: #e76f2c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+}
+
+hr {
+    border: 0.5px solid #ccc;
+    margin: 30px 0;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+.topnav {
+    background-color: sandybrown;
+    width: 100%;
+    height: 40px;
+
+
+
+
+}
+
+
+.topnav ul li {
+    text-decoration: none;
+    list-style: none;
+    padding: 40px;
+    margin-left: 50px;
+    margin-top: -40px;
+
+}
+
+.topnav ul {
+    display: flex;
+    padding: 3px;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.scroll-top {
+    width: 30px;
+    height: 30px;
+}
+
+.footer-links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-links a {
+    color: white;
+    margin: 0 10px;
+    font-size: 0.9rem;
+    text-decoration: none;
+}
